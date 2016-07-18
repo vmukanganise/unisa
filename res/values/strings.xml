@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">Hello World, MyApp!</string>
+    <string name="app_name">Skylark Investments Asset Tracker</string>
+    <string name="title">Asset Details</string>
+    <string name="name">Enter Name: </string>
+    <string name="marks">Enter ID: </string>
+    <string name="add">Add</string>
+    <string name="delete">Delete</string>
+    <string name="modify">Edit</string>
+    <string name="view">View</string>
+    <string name="view_all">Reports</string>
+    <string name="show_info">Show Information</string>
+    <string name="date">Date</string>
+    <string name="date_purch">Date Purchased</string>
+    <string name="location">Location</string>
+    <string name="owner">Owner</string>
+    <string name="depre">Depreciation</string>
+    <string name="purch_val">Purchased Value</string>
+</resources>
